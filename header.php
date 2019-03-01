@@ -18,8 +18,8 @@ curl_setopt($cek,CURLOPT_RETURNTRANSFER,true);
 $header = curl_exec($cek);
 
 if(!$header){
-echo"Check Your Connection OR URL FIRST !!!!\n HEADER INFORMATION : \n\n";
-echo $header;
+echo"Check Your Connection OR URL FIRST !!!!\n";
+
 
 } else {
     echo "Connected !!!\n";
