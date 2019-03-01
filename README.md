@@ -3,7 +3,7 @@
 |  Coded By Ahmad Dwiyan 
 <br>| HANYA UNTUK PEMBELAJARAN !!!
 <br>|  Don't Forget Visit !!! 
-<br>|  icwr-tech.id & lunatictech.xyz                 
+<br>|  http://icwr-tech.id & http://lunatictech.xyz                 
 <br>|  Tools Ini Nantinya Akan Di Update Dan Terus Melakukan Pengembangan
 
 # Requierements 
