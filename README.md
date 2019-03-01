@@ -12,7 +12,7 @@
 
 # How To install ?
 | git clone https://github.com/DwiyanTech/Header_Checker
-<br>| php header.php <URL> 
+<br>| php header.php (Target URL) 
 
 # Greetz
 | Makasih Tong Sudah Ngunjungi Github ini 
