@@ -6,7 +6,7 @@
 <br>|  http://icwr-tech.id & http://lunatictech.xyz                 
 <br>|  Tools Ini Nantinya Akan Di Update Dan Terus Melakukan Pengembangan
 
-# Requierements 
+# Requirements 
 | PHP CURL SUPPORT
 <br>| Command Line Support PHP 
 
