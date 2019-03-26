@@ -13,7 +13,7 @@
 
 # How To install ?
 | git clone https://github.com/DwiyanTech/header-checker
-<br>| php header.php 
+<br>| php header.php <br>
 | And Type *help* For Command List 
 
 # Hot To Use ?
