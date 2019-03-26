@@ -1,6 +1,7 @@
 # Header_Checker
-|  DwiyanTech As LunaticTech Header Checker V1.0 |  
-|  Coded By Ahmad Dwiyan 
+| Upadte LunaticTech Header Checker V.1 To V.2 <br>
+|  Coded By Ahmad Dwiyan <br>
+|  With Multiple Command 
 <br>| HANYA UNTUK PEMBELAJARAN !!!
 <br>|  Don't Forget Visit !!! 
 <br>|  http://icwr-tech.id & http://lunatictech.xyz                 
@@ -14,9 +15,6 @@
 | git clone https://github.com/DwiyanTech/Header_Checker
 <br>| php header.php (Target URL) 
 
-# Greetz
-| Makasih Tong Sudah Ngunjungi Github ini 
-<br> | IN CRUST WE RUSH STAFFS
-<br> | ALL MY FRIENDS
-<br> | And You :) 
-<br> | Yang penting TS GANS Tq :V 
+# Hot To Use ?
+|  Type *HELP* To Show Command  List <br>
+|  And Type *exit* To Exit The Tools <br> 
