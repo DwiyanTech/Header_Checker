@@ -1,5 +1,5 @@
 # Header_Checker
-| Upadte LunaticTech Header Checker V.1 To V.2 <br>
+|  LunaticTech Header Checker V.1 To V.2 <br>
 |  Coded By Ahmad Dwiyan <br>
 |  With Multiple Command 
 <br>| HANYA UNTUK PEMBELAJARAN !!!
