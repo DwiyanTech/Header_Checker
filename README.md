@@ -16,5 +16,5 @@
 <br>| php header.php (Target URL) 
 
 # Hot To Use ?
-|  Type *HELP* To Show Command  List <br>
+|  Type *help* To Show Command  List <br>
 |  And Type *exit* To Exit The Tools <br> 
