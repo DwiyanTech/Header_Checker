@@ -11,7 +11,7 @@ $cmd = trim(fgets(STDIN));
 
 if($cmd == "help"){
 
-echo "\n|+List Command+|\nresponse = Checking Header Response Without Code And Verbose False \ncode = Only Check Header Response Code\nheader = Checking Header Response And SCRIPT \nInfo =  All Information Of Headers Request(Verbose ON) \nlunatic = Information Tools ! \nexit = Exit Tools\n\n";
+echo "\n|+List Command+|\nresponse = Checking Header Response Without Script (Verbose False) \ncode = Only Check Header Response Code\nheader = Checking Header Response And SCRIPT \nInfo =  All Information Of Headers Request(Verbose ON) \nlunatic = Information Tools ! \nexit = Exit Tools\n\n";
 
 
 
