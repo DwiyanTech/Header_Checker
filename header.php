@@ -53,7 +53,7 @@ echo "\nYour URL : $url \nResponse Code => $kode\n\n";
 
 
 }
-if($cmd == "headscript"){
+if($cmd == "header"){
 
 echo "URL => ";
 $url = trim(fgets(STDIN));
